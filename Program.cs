@@ -6,7 +6,7 @@ namespace ChainedList
     {
         private No _glassCup, _plasticCup;
 
-        //Inserir elemento no fim da lista
+        //Colocar o elemento no fim da lista
         public void InsertEnd(string element)
         {
             No newNo = new No();
@@ -22,7 +22,7 @@ namespace ChainedList
             }
         }
 
-        //Inserir elemento no inicio da lista
+        //Colocar o elemento no inicio da lista
         public void InsertBeginning(string element)
         {
             No newBrand = new No();
