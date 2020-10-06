@@ -1,4 +1,5 @@
-﻿namespace ChainedList
+//Classe Interna: Value and Next
+namespace ChainedList
 {
     internal class No
     {
